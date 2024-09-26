@@ -31,6 +31,8 @@ int main()
 	//cout << r1 << endl << endl;
 	//system("pause");
 
+	cout << "Hello world!";
+
 	r::Rectangle rect(10, 2, 5, 4);
 	int nbRectangle;
 	int color;
